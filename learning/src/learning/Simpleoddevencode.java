@@ -7,6 +7,7 @@ public class Simpleoddevencode {
 			System.out.println(a+" is even no");
 		}else
 			System.out.println(a+" is odd no");
+		System.out.println("code changes by deepak");
 		
 	}
 
